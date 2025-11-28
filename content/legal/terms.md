@@ -14,13 +14,13 @@ draft: false
 
 **Effective Date**: November 24, 2025
 
-**Applicable To**: [springdevpro.com](https://springdevpro.com) (a professional Spring AI technical blog, hereinafter referred to as "the Site")
+**Applicable To**: [LLMDevPro.com](https://LLMDevPro.com) (a professional Spring AI technical blog, hereinafter referred to as "the Site")
 
-**Service Provider**: [springdevpro.com](https://springdevpro.com) (Contact: support@springdevpro.com)
+**Service Provider**: [LLMDevPro.com](https://LLMDevPro.com) (Contact: support@LLMDevPro.com)
 
 ## 1. Acceptance of Terms
 
-By accessing or using the Site (including browsing content, submitting comments, subscribing to newsletters, downloading resources, or interacting with Google AdSense ads), you ("User") agree to be bound by these Terms of Service ("Terms"), our [Privacy Policy](https://springdevpro.com/privacy-policy), and [Cookie Policy](https://springdevpro.com/cookie-policy). If you do not agree to all terms, you must immediately cease using the Site.
+By accessing or using the Site (including browsing content, submitting comments, subscribing to newsletters, downloading resources, or interacting with Google AdSense ads), you ("User") agree to be bound by these Terms of Service ("Terms"), our [Privacy Policy](https://LLMDevPro.com/privacy-policy), and [Cookie Policy](https://LLMDevPro.com/cookie-policy). If you do not agree to all terms, you must immediately cease using the Site.
 
 These Terms apply to all Users, including visitors, commenters, subscribers, and content contributors. Use of the Site constitutes acknowledgment that you have read, understood, and accepted these Terms as a legally binding agreement.
 
@@ -85,7 +85,7 @@ The Site is not intended for Users under 13 years of age. By using the Site, you
 
 ### 4.1 Site Content
 
-All original content on the Site (articles, tutorials, code snippets, images, logos, trademarks) is the exclusive property of [springdevpro.com](https://springdevpro.com) or its licensors, protected by copyright, trademark, and intellectual property laws worldwide.
+All original content on the Site (articles, tutorials, code snippets, images, logos, trademarks) is the exclusive property of [LLMDevPro.com](https://LLMDevPro.com) or its licensors, protected by copyright, trademark, and intellectual property laws worldwide.
 
 ### 4.2 Code Snippet License
 
@@ -93,7 +93,7 @@ Spring AI code snippets provided on the Site are licensed under the **Apache 2.0
 
 
 
-* **Personal/Non-Commercial Use**: You may copy, modify, and use code snippets for personal learning or non-commercial projects, provided you retain the original copyright notice and attribution to [springdevpro.com](https://springdevpro.com).
+* **Personal/Non-Commercial Use**: You may copy, modify, and use code snippets for personal learning or non-commercial projects, provided you retain the original copyright notice and attribution to [LLMDevPro.com](https://LLMDevPro.com).
 
 * **Commercial Use**: You may use code snippets in commercial projects only if:
 
@@ -109,7 +109,7 @@ We comply with the Digital Millennium Copyright Act (DMCA). To report copyright 
 
 
 
-* Submit a written notice to \[dmca@springdevpro.com] including:
+* Submit a written notice to \[dmca@LLMDevPro.com] including:
 
 
   * Your contact information.
@@ -171,7 +171,7 @@ In compliance with CCPA/CPRA, we will not discriminate against Users who exercis
 
 
 
-* To the maximum extent permitted by law, [springdevpro.com](https://springdevpro.com) and its affiliates shall not be liable for any indirect, incidental, special, or consequential damages (e.g., lost profits, business interruption) arising from your use of the Site.
+* To the maximum extent permitted by law, [LLMDevPro.com](https://LLMDevPro.com) and its affiliates shall not be liable for any indirect, incidental, special, or consequential damages (e.g., lost profits, business interruption) arising from your use of the Site.
 
 * Our total liability for any claim related to the Site shall not exceed \$100 USD.
 
@@ -254,8 +254,8 @@ For questions, concerns, or disputes related to these Terms:
 
 
 
-* Email: support@springdevpro.com
+* Email: support@LLMDevPro.com
 
-* Contact Form: [springdevpro.com/contact](https://springdevpro.com/contact)
+* Contact Form: [LLMDevPro.com/contact](https://LLMDevPro.com/contact)
 
 We aim to respond to all inquiries within 15 business days.

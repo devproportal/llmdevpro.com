@@ -14,11 +14,11 @@ draft: false
 
 **Effective Date**: November 24, 2025
 
-**Applicable To**: [springdevpro.com](https://springdevpro.com) (a professional Spring AI technical blog, hereinafter referred to as "the Site")
+**Applicable To**: [LLMDevPro.com](https://LLMDevPro.com) (a professional Spring AI technical blog, hereinafter referred to as "the Site")
 
 ## 1. Introduction
 
-This Cookie Policy explains how we use cookies and similar tracking technologies on [springdevpro.com](https://springdevpro.com). We are committed to complying with the General Data Protection Regulation (GDPR), Privacy and Electronic Communications Regulations (PECR), and California Consumer Privacy Act (CCPA)/California Privacy Rights Act (CPRA) to protect your privacy.
+This Cookie Policy explains how we use cookies and similar tracking technologies on [LLMDevPro.com](https://LLMDevPro.com). We are committed to complying with the General Data Protection Regulation (GDPR), Privacy and Electronic Communications Regulations (PECR), and California Consumer Privacy Act (CCPA)/California Privacy Rights Act (CPRA) to protect your privacy.
 
 Cookies are small text files stored on your device when you visit the Site. They help improve site functionality, deliver personalized content, analyze user behavior, and support our Google AdSense monetization efforts. By using the Site, you acknowledge understanding of this Policy and consent to our cookie practices as described.
 
@@ -34,8 +34,8 @@ These cookies are essential for the Site’s core functionality. Disabling them 
 | ---------------- | -------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------- |
 | `__cfduid`       | Cloudflare                                   | Secures access, prevents DDoS attacks, and ensures stable site operation    | 1 year                          |
 | `__cf_bm`        | Cloudflare                                   | Optimizes CDN performance and detects malicious traffic                     | 30 minutes                      |
-| `springai_theme` | [springdevpro.com](https://springdevpro.com) | Saves your preferred site theme (light/dark mode) for consistent experience | 1 year                          |
-| `session_token`  | [springdevpro.com](https://springdevpro.com) | Maintains temporary session state for code preview and tutorial interaction | Session (until browser closure) |
+| `springai_theme` | [LLMDevPro.com](https://LLMDevPro.com) | Saves your preferred site theme (light/dark mode) for consistent experience | 1 year                          |
+| `session_token`  | [LLMDevPro.com](https://LLMDevPro.com) | Maintains temporary session state for code preview and tutorial interaction | Session (until browser closure) |
 
 ### 2.2 Functional Cookies (Optional)
 
@@ -43,9 +43,9 @@ These cookies enhance user experience by remembering preferences. They are non-e
 
 | Cookie Name             | Provider                                     | Purpose                                                                         | Storage Duration |
 | ----------------------- | -------------------------------------------- | ------------------------------------------------------------------------------- | ---------------- |
-| `language_preference`   | [springdevpro.com](https://springdevpro.com) | Preserves your selected language (English by default)                           | 1 year           |
-| `recent_tutorials`      | [springdevpro.com](https://springdevpro.com) | Tracks recently viewed Spring AI tutorials for "Continue Reading" functionality | 30 days          |
-| `code_preview_settings` | [springdevpro.com](https://springdevpro.com) | Saves code syntax highlighting and formatting preferences                       | 6 months         |
+| `language_preference`   | [LLMDevPro.com](https://LLMDevPro.com) | Preserves your selected language (English by default)                           | 1 year           |
+| `recent_tutorials`      | [LLMDevPro.com](https://LLMDevPro.com) | Tracks recently viewed Spring AI tutorials for "Continue Reading" functionality | 30 days          |
+| `code_preview_settings` | [LLMDevPro.com](https://LLMDevPro.com) | Saves code syntax highlighting and formatting preferences                       | 6 months         |
 
 ### 2.3 Analytics Cookies (Optional)
 
@@ -125,9 +125,9 @@ We may update this Cookie Policy to reflect regulatory changes or new Site featu
 
 For questions about this Policy, cookie consent, or to exercise your privacy rights:
 
-* Email: privacy@springdevpro.com
+* Email: privacy@LLMDevPro.com
 
-* Contact Form: [springdevpro.com/contact](https://springdevpro.com/contact)
+* Contact Form: [LLMDevPro.com/contact](https://LLMDevPro.com/contact)
 
 We aim to respond to all requests within 30 business days.
 

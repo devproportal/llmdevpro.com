@@ -15,9 +15,9 @@ draft: false
 
 **Effective Date**: November 24, 2025
 
-**Applicable To**: [springdevpro.com](https://springdevpro.com) (a professional Spring AI technical blog, hereinafter referred to as "the Site")
+**Applicable To**: [LLMDevPro.com](https://LLMDevPro.com) (a professional Spring AI technical blog, hereinafter referred to as "the Site")
 
-**Data Controller**: [springdevpro.com](https://springdevpro.com) (Contact: privacy@springdevpro.com)
+**Data Controller**: [LLMDevPro.com](https://LLMDevPro.com) (Contact: privacy@LLMDevPro.com)
 
 ## 1. Introduction
 
@@ -45,7 +45,7 @@ We only collect personal data necessary to fulfill the stated purposes. The type
 
 * **Browsing & Device Data**: IP address, browser type, operating system, device identifiers, referral URL, page views, and session duration (collected via Google Analytics and Cloudflare).
 
-* **Cookie & Tracking Data**: As detailed in our [Cookie Policy](https://springdevpro.com/cookie-policy), including analytics cookies, advertising cookies (Google AdSense), and functional cookies.
+* **Cookie & Tracking Data**: As detailed in our [Cookie Policy](https://LLMDevPro.com/cookie-policy), including analytics cookies, advertising cookies (Google AdSense), and functional cookies.
 
 * **Interaction Data**: Engagement with Spring AI content (e.g., tutorial downloads, code snippet copies, ad clicks) and site feature usage (e.g., code preview tool settings).
 
@@ -150,9 +150,9 @@ To exercise any rights, submit a request via:
 
 
 
-* Email: privacy@springdevpro.com
+* Email: privacy@LLMDevPro.com
 
-* Contact Form: [springdevpro.com/contact](https://springdevpro.com/contact)
+* Contact Form: [LLMDevPro.com/contact](https://LLMDevPro.com/contact)
 
 We may request verification of your identity (e.g., confirming your email address) to process requests. We aim to respond within 30 business days .
 
@@ -213,8 +213,8 @@ Your continued use of the Site after updates constitutes acceptance of the revis
 For questions, concerns, or to exercise your privacy rights:
 
 
-* Email: privacy@springdevpro.com
+* Email: privacy@LLMDevPro.com
 
-* Contact Form: [springdevpro.com/contact](https://springdevpro.com/contact)
+* Contact Form: [LLMDevPro.com/contact](https://LLMDevPro.com/contact)
 
 We aim to resolve all inquiries within 30 business days. For EU residents, you may also contact your local data protection authority if you are unsatisfied with our response.
